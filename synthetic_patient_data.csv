@@ -1,0 +1,11 @@
+PatientID,Age,Gender,InsuranceProvider,SystolicBP,DiastolicBP,SmokerStatus,PrimaryDiagnosis,HasAllergies,ChiefComplaint,Medication1,Medication2,Medication3,Medication,DateOfVisit,DepartmentName,DoctorName
+P000001,38,Male,None,103,65,Yes,Anemia,No,Fatigue,Albuterol,Ibuprofen,None,Iron Supplement,2025-05-14,Internal Medicine,Dr. Lisa Jones
+P000002,26,Female,Blue Cross Blue Shield,110,77,No,Infection,Yes,Fever,Lisinopril,Albuterol,Albuterol,Penicillin,2025-01-29,Pediatrics,Dr. John Doe
+P000003,43,Female,Medicare,151,103,No,Anemia,Yes,Fatigue,Albuterol,Albuterol,Ibuprofen,Iron Supplement,2024-12-25,General Surgery,Dr. Maria Garcia
+P000004,29,Male,Medicare,101,57,No,Infection,Yes,Fever,Albuterol,Lisinopril,Ibuprofen,Penicillin,2025-05-09,General Surgery,Dr. Alex Smith
+P000005,59,Female,Blue Cross Blue Shield,102,73,Yes,Infection,No,Fever,Albuterol,Lisinopril,Ibuprofen,Penicillin,2024-09-03,Pediatrics,Dr. John Doe
+P000006,47,Male,None,110,76,No,Infection,No,Fever,None,None,None,Penicillin,2025-07-13,Pediatrics,Dr. John Doe
+P000007,69,Female,Medicare,91,70,Yes,Infection,No,Fever,None,Lisinopril,Lisinopril,Penicillin,2025-01-04,Orthopaedic,Dr. Sarah Lee
+P000008,39,Male,Cigna,130,76,No,Migraine,No,Headache,Albuterol,None,None,Ibuprofen,2025-08-31,General Surgery,Dr. Maria Garcia
+P000009,30,Female,Medicaid,110,62,No,Migraine,No,Headache,Ibuprofen,None,Albuterol,Ibuprofen,2024-10-17,Pediatrics,Dr. Jane Miller
+P000010,65,Female,Cigna,124,86,No,Infection,Yes,Fever,Albuterol,Lisinopril,Lisinopril,Penicillin,2025-06-20,Dermatology,Dr. David Brown
